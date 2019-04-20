@@ -8,7 +8,7 @@ public class TopicController {
 
     @RequestMapping("/topic")
     public String getAllTopics(){
-        return " All Topics ";
+        return " All  Topics ";
     }
 
 }
